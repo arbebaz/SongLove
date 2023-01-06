@@ -1,0 +1,65 @@
+body{
+
+    background: url(../images/retro-microphone-isolated-color-background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+/******************************************* NAV  ***********************************************/
+
+
+
+/******************************************* FIN NAV  ***********************************************/
+
+
+/******************************************* FORM  ***********************************************/
+
+.formun{
+
+    height: 30rem;
+    width: 40rem;
+    margin-top: 7rem;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+
+}
+
+.centreform{
+
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    
+}
+
+.inputun{
+
+    width: 25rem;
+}
+
+.formun button{
+
+    background-color: #0091BD;
+    border: none;
+    border-radius: 1rem;
+    width: 10rem;
+    height: 2rem;
+
+}
+
+a{
+
+    text-decoration: none;
+    color: #0091BD;
+}
+
+
+
+
+
+
+
+
+/******************************************* FIN FORM  ***********************************************/
